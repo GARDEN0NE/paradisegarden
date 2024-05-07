@@ -1,5 +1,7 @@
-# Welcome to paradise garden
-you can SIGN UP as customer to order flowers etc. , SIGN IN as ADMIN (Email: hg@gmail.com Passward: 1234) to manege orders etc.
+# ʚ♡ɞ Welcome to paradise garden ʚ♡ɞ
+YOU CAN:
++ SIGN UP as customer to order flowers etc.  
++ SIGN IN as ADMIN (Email: hg@gmail.com Passward: 1234) to manege orders etc.
 ## About team
 ### شعبة 1629
   - فدوى عواض السعدي 44107179
