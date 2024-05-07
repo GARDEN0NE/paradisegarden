@@ -2,7 +2,7 @@
 YOU CAN:
 + SIGN UP as customer to order flowers etc.  
 + SIGN IN as ADMIN (Email: hg@gmail.com Passward: 1234) to manege orders etc.
-## About team
+## About Team
 ### شعبة 1629
   - فدوى عواض السعدي 44107179
 ### شعبة 1703
